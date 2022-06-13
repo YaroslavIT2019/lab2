@@ -72,4 +72,6 @@ int main()
     f->Rotate(4);
     f->Move(5, 7);
     f->Destroy();
+
+    cout << endl;
 }
